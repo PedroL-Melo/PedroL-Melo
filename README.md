@@ -32,9 +32,11 @@
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroL-Melo&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-</div>
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroL-Melo&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+
+</p>>
 
 ---
 
@@ -74,10 +76,6 @@
 
 ## 📫 Como entrar em contato
 
-<p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroL-Melo&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-
-</p>
 
 ---
