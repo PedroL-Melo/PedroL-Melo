@@ -75,7 +75,9 @@
 ## 📫 Como entrar em contato
 
 <p align="center">
-  <a href="mailto:pedrolucasmelo5@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroL-Melo&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+
 </p>
 
 ---
