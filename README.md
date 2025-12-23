@@ -73,9 +73,3 @@
 | **🧠 DECIFRA** | Node.js, JS, IA | Plataforma gamificada para ensino de matemática com suporte de Inteligência Artificial. |
 
 ---
-
-## 📫 Como entrar em contato
-
-
-
----
