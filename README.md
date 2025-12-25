@@ -36,7 +36,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=PedroL-Melo&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 
-</p>>
+</p>
 
 ---
 
