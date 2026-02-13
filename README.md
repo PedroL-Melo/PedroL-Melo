@@ -69,7 +69,7 @@
 
 | Projeto | Stack Principal | Descrição |
 |:--------|:---------------:|:----------|
-| **🏋️‍♀️ Luminous Gym** | PHP (MVC), MySQL | Sistema completo de gestão para academia feminina, com controle de treinos e alunos. |
+| **🏋️‍♀️ [Luminous Gym]()** | PHP (MVC), MySQL | Sistema completo de gestão para academia feminina, com controle de treinos e alunos. |
 | **🧠 DECIFRA** | Node.js, JS, IA | Plataforma gamificada para ensino de matemática com suporte de Inteligência Artificial. |
 
 ---
