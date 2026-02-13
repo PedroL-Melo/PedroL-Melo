@@ -70,6 +70,6 @@
 | Projeto | Stack Principal | Descrição |
 |:--------|:---------------:|:----------|
 | **🏋️‍♀️ [Luminous Gym](https://github.com/RenatoSZA/Alvaros-Project)** | PHP (MVC), MySQL | Sistema completo de gestão para academia feminina, com controle de treinos e alunos. |
-| **🧠 DECIFRA** | Node.js, JS, IA | Plataforma gamificada para ensino de matemática com suporte de Inteligência Artificial. |
+| **🧠 [DECIFRA](https://github.com/PedroL-Melo/DECIFRA)** | Node.js, JS, IA | Plataforma gamificada para ensino de matemática com suporte de Inteligência Artificial. |
 
 ---
