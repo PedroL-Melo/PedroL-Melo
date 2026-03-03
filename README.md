@@ -34,7 +34,7 @@
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroL-Melo&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroL-Melo)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
 
