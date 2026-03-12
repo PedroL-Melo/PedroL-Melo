@@ -32,11 +32,11 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
+<div align="center">
 
 ![](https://nirzak-streak-stats.vercel.app/?user=PedroL-Melo&theme=dark&hide_border=false)<br/>
 
-</p>
+</div>
 
 ---
 
