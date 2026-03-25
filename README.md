@@ -62,6 +62,7 @@
 - Criação de APIs RESTful com **Node.js & Express**.
 - Integração de **Inteligência Artificial** em aplicações web.
 - Modelagem avançada de Banco de Dados **MySQL**.
+- Aprofundamento em **Python 3**.
 
 ---
 
