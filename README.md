@@ -34,7 +34,7 @@
 
 <div align="center">
 
-![](https://nirzak-streak-stats.vercel.app/?user=PedroL-Melo&theme=dark&hide_border=false)<br/>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PedroL-Melo&show_icons=true&theme=radical)
 
 </div>
 
