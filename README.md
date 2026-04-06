@@ -30,16 +30,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PedroL-Melo&show_icons=true&theme=radical)
-
-</div>
-
----
-
 ## 💻 Tecnologias & Ferramentas
 
 <div align="center">
