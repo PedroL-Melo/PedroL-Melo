@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Back%20End-black?style=for-the-badge" />
-   <a href="https://www.youtube.com">
+   <a href="https://www.youtube.com/PLQMelo">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
