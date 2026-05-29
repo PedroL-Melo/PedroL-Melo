@@ -57,6 +57,6 @@
 |:--------|:---------------:|:----------|
 | **🏋️‍♀️ [Luminous Gym](https://github.com/RenatoSZA/Alvaros-Project)** | PHP (MVC), MySQL | Sistema completo de gestão para academia feminina, com controle de treinos e alunos. |
 | **🧠 [DECIFRA](https://github.com/PedroL-Melo/DECIFRA)** | Node.js, JS, IA | Plataforma gamificada para ensino de matemática com suporte de Inteligência Artificial. |
-| **🧠 [SASL](https://github.com/PedroL-Melo/sasl)** | Laravel, MariaDB, Blade | Sistema de Agendamento de Salas e Laboratórios. |
+| **📑 [SASL](https://github.com/PedroL-Melo/sasl)** | Laravel, MariaDB, Blade | Sistema de Agendamento de Salas e Laboratórios. |
 
 ---
