@@ -1,7 +1,7 @@
 <h1 align="center">🥊Pedro Melo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Back-end;Estudante+do+IFAC;M%C3%BAsico+Tecladista+%F0%9F%8E%B9;Apaixonado+por+PHP+e+Node.js!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Back-end;Estudante+do+IFAC;M%C3%BAsico+Tecladista+%F0%9F%8E%B9" alt="Typing SVG" />
 </p>
 
 <p align="center">
