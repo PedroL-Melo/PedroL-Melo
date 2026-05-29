@@ -6,13 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Back%20End-black?style=for-the-badge" />
-   <a href="https://www.youtube.com/@PLQMelo" style="text-decoration: none;">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UClMtnkdYYifeHDHZ9eguHhw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
+  <a href="https://www.youtube.com/@PLQMelo"><img alt="youtube views" title="Vizualizações no YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UClMtnkdYYifeHDHZ9eguHhw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600" /></a>
   <img src="https://img.shields.io/badge/IFAC-green?style=for-the-badge&logo=school&logoColor=white" />
   <img src="https://img.shields.io/badge/Musician-purple?style=for-the-badge&logo=apple-music&logoColor=white" />
 </p>
