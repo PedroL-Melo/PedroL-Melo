@@ -18,7 +18,7 @@
 - 🎓 Cursando **Informática para Internet** no **IFAC** (Instituto Federal de Educação Ciência e Tecnologia do Acre).
 - 🎹 **Músico tecladista** nas horas vagas.
 - 💻 Foco principal em **Back-end** e lógica de programação.
-- 🛠️ Atualmente migrando e integrando conhecimentos entre **PHP** e **Node.js**.
+- 🛠️ Atualmente aprofundando conhecimentos em **Inteligência Artificial** com **Python**.
 
 ---
 
