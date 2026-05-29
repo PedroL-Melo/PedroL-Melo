@@ -15,7 +15,6 @@
     </a> 
   <img src="https://img.shields.io/badge/IFAC-green?style=for-the-badge&logo=school&logoColor=white" />
   <img src="https://img.shields.io/badge/Musician-purple?style=for-the-badge&logo=apple-music&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
 ---
