@@ -19,7 +19,6 @@
 - 🎹 **Músico tecladista** nas horas vagas.
 - 💻 Foco principal em **Back-end** e lógica de programação.
 - 🛠️ Atualmente migrando e integrando conhecimentos entre **PHP** e **Node.js**.
-- 🧠 Gosto de entender como as coisas funcionam "por baixo dos panos" (C, Estrutura de dados).
 
 ---
 
@@ -45,7 +44,7 @@
 ## 🌱 Atualmente aprendendo
 
 - Aprofundamento em **PHP Moderno (8+)**.
-- Criação de APIs RESTful com **Node.js & Express**.
+- Frameworks como **Django** e **Laravel**.
 - Integração de **Inteligência Artificial** em aplicações web.
 - Modelagem avançada de Banco de Dados **MySQL**.
 - Aprofundamento em **Python 3**.
@@ -58,5 +57,6 @@
 |:--------|:---------------:|:----------|
 | **🏋️‍♀️ [Luminous Gym](https://github.com/RenatoSZA/Alvaros-Project)** | PHP (MVC), MySQL | Sistema completo de gestão para academia feminina, com controle de treinos e alunos. |
 | **🧠 [DECIFRA](https://github.com/PedroL-Melo/DECIFRA)** | Node.js, JS, IA | Plataforma gamificada para ensino de matemática com suporte de Inteligência Artificial. |
+| **🧠 [SASL](https://github.com/PedroL-Melo/sasl)** | Laravel, MariaDB, Blade | Sistema de Agendamento de Salas e Laboratórios. |
 
 ---
