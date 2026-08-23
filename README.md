@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Back%20End-black?style=for-the-badge" />
-  <a href="https://www.youtube.com/@PLQMelo"><img alt="YouTube" title="Meu Canal no YouTube" src="https://img.shields.io/badge/YouTube-@PLQMelo-%23E1AD0E?style=for-the-badge&logo=youtube&logoColor=white&labelColor=C79600" /></a>
+  <a href="https://www.youtube.com/@PLQMelo"><img src="https://img.shields.io/badge/Views-500-FF0000?style=for-the-badge&logo=youtube" /></a>
   <img src="https://img.shields.io/badge/IFAC-green?style=for-the-badge&logo=school&logoColor=white" />
   <img src="https://img.shields.io/badge/Musician-purple?style=for-the-badge&logo=apple-music&logoColor=white" />
 </p>
